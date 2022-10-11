@@ -198,7 +198,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:C:/GitHub/Through-The-Crypt-V.6/Pico SDK",
+      "version": "file:C:/Users/elio.enestrom/Documents/GitHub/Ny mapp/Through-The-Crypt-V.6/Pico SDK",
       "depth": 0,
       "source": "local",
       "dependencies": {
